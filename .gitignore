@@ -5,3 +5,4 @@
 /Backends/EventService/Presentation/appsettings.json
 /Backends/AccountService/Presentation/appsettings.json
 /Backends/AccountService/Presentation/appsettings.Development.json
+/Backends/EventService/Presentation/appsettings.Development.json
