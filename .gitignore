@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Backends/EventService/Presentation/appsettings.json
+/Backends/AccountService/Presentation/appsettings.json
+/Backends/AccountService/Presentation/appsettings.Development.json
